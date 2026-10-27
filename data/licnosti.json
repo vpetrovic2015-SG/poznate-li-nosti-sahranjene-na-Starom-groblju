@@ -6,7 +6,7 @@
     "zanimanje": "Глумица",
     "zanimanje_lat": "Glumica",
     "godine": "1923–1998",
-    "biografija": "Живка Матић била је српска глумица, позната по улогама у телевизијским комедијама и серијама које приказују живот српског села. Позната по улогама .",
+    "biografija": "Живка Матић била је српска глумица, позната по улогама у телевизијским комедијама и серијама које приказују живот српског села. Биографски текст у овом прототипу треба допунити и проверити на основу поузданих извора.",
     "biografija_lat": "Živka Matić bila je srpska glumica, poznata po ulogama u televizijskim komedijama i serijama koje prikazuju život srpskog sela. Biografski tekst u ovom prototipu treba dopuniti i proveriti na osnovu pouzdanih izvora.",
     "grobno_mesto": "257/4",
     "izvori": "Početni biografski tekst: dostavljena stranica; proveriti dodatne izvore pre javnog objavljivanja.",
@@ -17,8 +17,8 @@
     "kategorije": [
       "umetnici"
     ],
-    "fotografija_groba": "assets/grobna mesta/zivka-matic-grob.jpg",
-    "model_3d": "assets/3D/zivka-matic-grob.glb"
+    "fotografija_groba": "assets/grobna-mesta/zivka-matic-grob.jpg",
+    "model_3d": "assets/3d/zivka-matic-grob.glb"
   },
   {
     "id": "stojan-stojancic-pavlovic",
@@ -39,7 +39,7 @@
       "politicari",
       "privrednici"
     ],
-    "fotografija_groba": "assets/grobna mesta/Stojan-Pavlovic-grob.jpg"
+    "fotografija_groba": "assets/grobna-mesta/Stojan-Pavlovic-grob.jpg"
   },
   {
     "id": "dimitrije-mita-sapinac",
@@ -59,7 +59,7 @@
     "kategorije": [
       "privrednici"
     ],
-    "fotografija_groba": ""
+    "fotografija_groba": "assets/grobna-mesta/Dimitrije-Sapinac-grob.jpg"
   },
   {
     "id": "ignjat-todorovic",
@@ -76,12 +76,12 @@
     "lon": 21.180238,
     "izvori": "Текст доставио корисник; историјске податке проверити према поузданим изворима.",
     "fotografija": "assets/licnosti/ignjat-todorovic.jpg",
-    "fotografija_groba": "assets/grobna mesta/Ignjat-Todorovic-grob.jpeg",
+    "fotografija_groba": "assets/grobna-mesta/Ignjat-Todorovic-grob.jpeg",
     "kategorije": [
       "politicari",
       "privrednici"
     ],
-    "model_3d": "assets/3D/ignjat-todorovic.glb"
+    "model_3d": "assets/3d/ignjat-todorovic.glb"
   },
   {
     "id": "sava-a-jovanovic",
@@ -102,7 +102,8 @@
       "politicari",
       "privrednici"
     ],
-    "fotografija_groba": assets/3D/sava-jovanovic-grob.glb"
+    "fotografija_groba": "",
+    "model_3d": "assets/3d/sava-jovanovic-grob.glb"
   },
   {
     "id": "vasa-pelagic",
@@ -146,7 +147,7 @@
       "dobrotvori",
       "privrednici"
     ],
-    "fotografija_groba": "assets/grobna mesta/Cecelski-grob.jpeg"
+    "fotografija_groba": "assets/grobna-mesta/Cecelski-grob.jpeg"
   },
   {
     "id": "dusan-vujicic",
@@ -161,7 +162,7 @@
     "izvori": "Tekst dostavio korisnik; proveriti istorijske i pravne navode pre javnog objavljivanja.",
     "lat": 44.631031,
     "lon": 21.179588,
-    "fotografija": "assets/licnosti/Dusan-Vujicic.jpg",
+    "fotografija": "assets/licnosti/dusan-vujicic.jpg",
     "parcela": "5",
     "kategorije": [
       "politicari"
@@ -181,14 +182,14 @@
     "izvori": "Tekst dostavio korisnik; proveriti datume, funkcije i detalje internacije u pouzdanim izvorima.",
     "lat": 44.62988,
     "lon": 21.178861,
-    "fotografija": "assets/licnosti/Jovan-jovanovic-Joska.jpg",
+    "fotografija": "assets/licnosti/jovan-jovanovic-joska.jpg",
     "parcela": "6",
     "kategorije": [
       "politicari",
       "privrednici"
     ],
     "fotografija_groba": "",
-    "model_3d": "assets/3D/jovan-jovanovic-joska-grob.glb"
+    "model_3d": "assets/3d/jovan-jovanovic-joska-grob.glb"
   },
   {
     "id": "mihailo-dusmanic",
@@ -210,7 +211,7 @@
       "lekari",
       "privrednici"
     ],
-    "fotografija_groba": "assets/grobna mesta/Dusmanic-grob.jpeg"
+    "fotografija_groba": "assets/grobna-mesta/Dusmanic-grob.jpeg"
   },
   {
     "id": "miomir-mica-ilic",
@@ -252,7 +253,7 @@
       "advokati",
       "politicari"
     ],
-    "fotografija_groba": "assets/grobna mesta/Branko-Ivosevic-grob.jpg"
+    "fotografija_groba": "assets/grobna-mesta/Branko-Ivosevic-grob.jpg"
   },
   {
     "id": "dr-nikola-hadzi-nikolic",
@@ -272,7 +273,7 @@
     "kategorije": [
       "lekari"
     ],
-    "fotografija_groba": "assets/grobna mesta/Hadzi-Nikolic-grob.jpeg"
+    "fotografija_groba": "assets/grobna-mesta/Hadzi-Nikolic-grob.jpeg"
   },
   {
     "id": "milutin-obradovic",
@@ -294,8 +295,8 @@
       "dobrotvori",
       "privrednici"
     ],
-    "fotografija_groba": "assets/grobna mesta/milutin-obradovic-grob.jpg",
-    "model_3d": "assets/3D/milutin-obradovic-grob.glb"
+    "fotografija_groba": "assets/grobna-mesta/milutin-obradovic-grob.jpg",
+    "model_3d": "assets/3d/milutin-obradovic-grob.glb"
   },
   {
     "id": "mihailo-krstic",
@@ -337,7 +338,7 @@
     "kategorije": [
       "privrednici"
     ],
-    "fotografija_groba": "assets/grobna mesta/Zivorad-Zika-Petrovic-grob.jpeg"
+    "fotografija_groba": "assets/grobna-mesta/Zivorad-Zika-Petrovic-grob.jpeg"
   },
   {
     "id": "vladimir-sukljevic",
@@ -353,7 +354,7 @@
     "lat": 44.630416,
     "lon": 21.178097,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
-    "fotografija": "assets/licnosti/Vladimir-Šukljević.jpg",
+    "fotografija": "",
     "kategorije": [
       "umetnici",
       "prosvetni"
@@ -442,7 +443,7 @@
       "privrednici",
       "dobrotvori"
     ],
-    "fotografija_groba": ""
+    "fotografija_groba": "assets/grobna-mesta/Petar-Tamburas-grob.jpg"
   },
   {
     "id": "glisa-petrovic",
@@ -462,7 +463,7 @@
     "kategorije": [
       "politicari"
     ],
-    "fotografija_groba": "assets/grobna mesta/Glisa-Petrovic-grob.jpg"
+    "fotografija_groba": "assets/grobna-mesta/Glisa-Petrovic-grob.jpg"
   },
   {
     "id": "dimitrije-mita-protic",
@@ -542,8 +543,8 @@
     "kategorije": [
       "prosvetni"
     ],
-    "fotografija_groba": "assets/grobna mesta/vladan-popovic-sulja-grob.jpg",
-    "model_3d": "assets/3D/vladan-popovic-sulja-grob.glb"
+    "fotografija_groba": "assets/grobna-mesta/vladan-popovic-sulja-grob.jpg",
+    "model_3d": "assets/3d/vladan-popovic-sulja-grob.glb"
   },
   {
     "id": "dr-sava-dimitrijevic",
@@ -605,7 +606,7 @@
       "privrednici",
       "politicari"
     ],
-    "fotografija_groba": "assets/grobna mesta/Nikolajevic-Aleksandar-grob.jpg"
+    "fotografija_groba": "assets/grobna-mesta/Nikolajevic-Aleksandar-grob.jpg"
   },
   {
     "zanimanje": "Трговац извозник, председник општине и добротвор",
@@ -682,7 +683,7 @@
     "grobno_mesto": "",
     "parcela": "",
     "fotografija": "assets/licnosti/vlajko-stojiljkovic.jpg",
-    "fotografija_groba": "assets/grobna mesta/Vlajko-Stojiljkovic-grob.jpg",
+    "fotografija_groba": "assets/grobna-mesta/Vlajko-stojiljkovic-grob",
     "kategorije": [
       "istorija",
       "javne-licnosti"
@@ -707,6 +708,6 @@
       "javne-licnosti"
     ],
     "fotografija_groba": "",
-    "model_3d": "assets/3D/draza-markovic-grob.glb"
+    "model_3d": "assets/3d/draza-markovic-grob.glb"
   }
 ]
