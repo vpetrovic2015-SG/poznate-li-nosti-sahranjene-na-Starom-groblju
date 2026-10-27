@@ -12,7 +12,7 @@
     "izvori": "Početni biografski tekst: dostavljena stranica; proveriti dodatne izvore pre javnog objavljivanja.",
     "lat": 44.63042,
     "lon": 21.178519,
-    "fotografija": "assets/licnosti/zivka-matic-nova.jpg",
+    "fotografija": "assets/licnosti/zivka-matic.jpg",
     "parcela": "7",
     "kategorije": [
       "umetnici"
@@ -162,7 +162,7 @@
     "izvori": "Tekst dostavio korisnik; proveriti istorijske i pravne navode pre javnog objavljivanja.",
     "lat": 44.631031,
     "lon": 21.179588,
-    "fotografija": "assets/licnosti/dusan-vujicic.jpg",
+    "fotografija": "assets/licnosti/Dusan-Vujicic.jpg",
     "parcela": "5",
     "kategorije": [
       "politicari"
@@ -182,7 +182,7 @@
     "izvori": "Tekst dostavio korisnik; proveriti datume, funkcije i detalje internacije u pouzdanim izvorima.",
     "lat": 44.62988,
     "lon": 21.178861,
-    "fotografija": "assets/licnosti/jovan-jovanovic-joska.jpg",
+    "fotografija": "assets/licnosti/Jovan-jovanovic-Joska.jpg",
     "parcela": "6",
     "kategorije": [
       "politicari",
@@ -354,7 +354,7 @@
     "lat": 44.630416,
     "lon": 21.178097,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
-    "fotografija": "",
+    "fotografija": "assets/licnosti/Vladimir-Šukljević.jpg",
     "kategorije": [
       "umetnici",
       "prosvetni"
