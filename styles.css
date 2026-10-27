@@ -8,3 +8,45 @@
 @media(max-width:480px){.brand b{font-size:11px}.brand small{font-size:9px}.brand-mark{font-size:25px}.hero h1{font-size:48px}.hero-lead{font-size:15px}.hero-note{display:none}.people-list{grid-template-columns:1fr}.profile-top{grid-template-columns:1fr}.profile-portrait,.portrait-placeholder{width:150px;height:175px}.profile-name{font-size:34px}.section-head{align-items:flex-start}.count{font-size:27px}.qr-wrap{align-items:flex-start}}
 
 .load-error-banner{position:relative;z-index:2000;background:#7b241c;color:#fff;padding:12px 18px;font-size:13px;text-align:center;overflow-wrap:anywhere}
+
+
+/* РЕДИЗАЈН: централни 3D приказ и бочни контролни панели */
+:root{--ink:#211e18;--ink2:#29251f;--gold:#c6a15e;--gold2:#e5c98f;--paper:#f2ecdf;--muted:#817666;--line:#ded1bb;--white:#fffaf1;--shadow:0 16px 42px rgba(41,31,16,.11)}
+body{background:#eee6d7}
+.topbar{background:linear-gradient(100deg,#171713,#29261f 68%,#171713);box-shadow:0 5px 24px #17130d22}
+.brand-mark{filter:drop-shadow(0 0 7px #c6a15e33)}
+.hero{background-image:linear-gradient(90deg,#171713f5 0%,#171713d9 42%,#17171366 100%),url('assets/grobna mesta/Ignjat-Todorovic-grob.jpeg');background-position:center 43%;}
+.hero:after{border-color:#c6a15e66}
+.btn,.small-btn,.route-card,.list-panel,.profile-panel,.models-overview{transition:box-shadow .2s,border-color .2s,transform .2s}
+.btn.gold{background:linear-gradient(135deg,#d9b875,#b58b45);border-color:#d9b875}
+.people-section{background:linear-gradient(135deg,#e9dfce,#f3ecdf 55%,#e7dcc8)}
+.list-panel,.profile-panel{border-color:#d8c8ad;border-radius:10px;overflow:hidden}
+.list-panel{background:#fbf5e9;box-shadow:0 15px 36px #2a211512}
+#searchInput,#categoryFilter{border-radius:5px;background:#fffdf8}
+.person-row{border-radius:5px}
+.person-row.active{background:#eee0c4;border-color:#c9a66b;box-shadow:inset 3px 0 #b78b42}
+.profile-top{background:linear-gradient(110deg,#fffaf1,#f2e7d4);}
+.profile-portrait{border-radius:4px;box-shadow:0 7px 18px #2a21151c}
+.profile-tabs{background:#f5ecdc}
+.tab{font-weight:600}
+.tab.active{color:#60451c;border-bottom-color:#b88b40}
+.model-section{max-width:none;background:linear-gradient(135deg,#e6dcc9,#f8f3e9 50%,#e6dcc9);}
+.model-section>.section-head,.model-section>.models-overview{max-width:1500px;margin-left:auto;margin-right:auto}
+.models-overview{border-radius:10px;background:#fbf6eb;border-color:#d8c7a7}
+.model-stage{display:grid;grid-template-columns:minmax(190px,230px) minmax(0,1fr) minmax(190px,230px);gap:16px;align-items:stretch;padding:18px;background:#f8f1e5;border:1px solid #d7c5a1;border-radius:12px;box-shadow:0 18px 45px #2b211414}
+.model-side{background:#eae0cf;border:1px solid #d7c6a7;border-radius:8px;padding:16px;min-width:0}
+.model-side h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:23px;line-height:1.1;margin:0 0 14px;color:#463a27}
+.model-side label{display:block;font-size:10px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:#72624a;margin:14px 0 6px}
+.model-side select{width:100%;min-width:0;padding:10px 9px;border:1px solid #cdbb9a;background:#fffaf0;color:#29251f;border-radius:5px;font-size:12px;cursor:pointer}
+.model-side .model-side-note{font-size:12px;color:#756956;line-height:1.6;margin-top:16px}
+.model-canvas{min-width:0;display:flex;flex-direction:column;background:#292821;border:1px solid #bda675;border-radius:8px;padding:12px;box-shadow:inset 0 0 40px #0003}
+.model-canvas-head{display:flex;align-items:center;justify-content:space-between;gap:12px;color:#f8efdd;padding:2px 4px 12px}
+.model-canvas-head strong{font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:600}
+.model-canvas-head span{font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:#d7bd83}
+.model-view{height:clamp(390px,43vw,650px);min-height:360px;width:100%;background:radial-gradient(ellipse at 50% 42%,#d9d0bf 0%,#a9a08f 60%,#69665c 100%);border-radius:5px;--poster-color:transparent}
+.model-canvas-foot{color:#d5cbb8;font-size:12px;padding:10px 4px 2px;line-height:1.5}
+.model-side .model-mini-card{margin-top:16px;padding:12px;background:#f8f0e1;border:1px solid #d5c3a2;border-radius:6px;font-size:12px;line-height:1.55;color:#5e513d}
+.model-side .model-mini-card b{display:block;color:#322b20;margin-bottom:4px}
+.model-missing{border:1px dashed #c6aa75;background:#fff9ed;border-radius:7px}
+@media(max-width:1050px){.model-stage{grid-template-columns:190px minmax(0,1fr)}.model-side-right{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.model-side-right h3{grid-column:1/-1;margin-bottom:0}.model-side-right label{margin-top:0}.model-side-right .model-mini-card{margin-top:0}}
+@media(max-width:700px){.model-stage{grid-template-columns:1fr;padding:10px}.model-side-left{order:0}.model-canvas{order:1}.model-side-right{order:2;grid-template-columns:1fr}.model-side-right h3{grid-column:auto}.model-side-right .model-mini-card{margin-top:8px}.model-view{height:420px;min-height:320px}.model-canvas-head strong{font-size:21px}.model-canvas-head span{font-size:9px}.section{padding-left:16px;padding-right:16px}}
