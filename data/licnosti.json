@@ -18,7 +18,7 @@
       "umetnici"
     ],
     "fotografija_groba": "assets/grobna mesta/zivka-matic-grob.jpg",
-    "model_3d": "assets/3d/zivka-matic-grob.glb"
+    "model_3d": "assets/3D/zivka-matic-grob.glb"
   },
   {
     "id": "stojan-stojancic-pavlovic",
@@ -81,7 +81,7 @@
       "politicari",
       "privrednici"
     ],
-    "model_3d": "assets/3d/ignjat-todorovic.glb"
+    "model_3d": "assets/3D/ignjat-todorovic.glb"
   },
   {
     "id": "sava-a-jovanovic",
@@ -102,8 +102,7 @@
       "politicari",
       "privrednici"
     ],
-    "fotografija_groba": "",
-    "model_3d": "assets/3d/sava-jovanovic-grob.glb"
+    "fotografija_groba": assets/3D/sava-jovanovic-grob.glb"
   },
   {
     "id": "vasa-pelagic",
@@ -189,7 +188,7 @@
       "privrednici"
     ],
     "fotografija_groba": "",
-    "model_3d": "assets/3d/jovan-jovanovic-joska-grob.glb"
+    "model_3d": "assets/3D/jovan-jovanovic-joska-grob.glb"
   },
   {
     "id": "mihailo-dusmanic",
@@ -296,7 +295,7 @@
       "privrednici"
     ],
     "fotografija_groba": "assets/grobna mesta/milutin-obradovic-grob.jpg",
-    "model_3d": "assets/3d/milutin-obradovic-grob.glb"
+    "model_3d": "assets/3D/milutin-obradovic-grob.glb"
   },
   {
     "id": "mihailo-krstic",
@@ -463,7 +462,7 @@
     "kategorije": [
       "politicari"
     ],
-    "fotografija_groba": "assets/grobna mesta/Glisa-Petrovic-grob.JPG"
+    "fotografija_groba": "assets/grobna mesta/Glisa-Petrovic-grob.jpg"
   },
   {
     "id": "dimitrije-mita-protic",
@@ -544,7 +543,7 @@
       "prosvetni"
     ],
     "fotografija_groba": "assets/grobna mesta/vladan-popovic-sulja-grob.jpg",
-    "model_3d": "assets/3d/vladan-popovic-sulja-grob.glb"
+    "model_3d": "assets/3D/vladan-popovic-sulja-grob.glb"
   },
   {
     "id": "dr-sava-dimitrijevic",
@@ -708,6 +707,6 @@
       "javne-licnosti"
     ],
     "fotografija_groba": "",
-    "model_3d": "assets/3d/draza-markovic-grob.glb"
+    "model_3d": "assets/3D/draza-markovic-grob.glb"
   }
 ]
