@@ -463,7 +463,7 @@
     "kategorije": [
       "politicari"
     ],
-    "fotografija_groba": ""
+    "fotografija_groba": "assets/grobna mesta/Glisa-Petrovic-grob.JPG"
   },
   {
     "id": "dimitrije-mita-protic",
@@ -543,7 +543,7 @@
     "kategorije": [
       "prosvetni"
     ],
-    "fotografija_groba": "assets/grobna-mesta/vladan-popovic-sulja-grob.jpg",
+    "fotografija_groba": "assets/grobna mesta/vladan-popovic-sulja-grob.jpg",
     "model_3d": "assets/3d/vladan-popovic-sulja-grob.glb"
   },
   {
@@ -601,12 +601,12 @@
     "lat": 44.62928,
     "lon": 21.18019,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
-    "fotografija": "assets/licnosti/aleksandar-s-nikolaevic.jpg",
+    "fotografija": "assets/licnosti/aleksandar-nikolajevic.jpg",
     "kategorije": [
       "privrednici",
       "politicari"
     ],
-    "fotografija_groba": "assets/grobna-mesta/Nikolajevic-Aleksandar-grob.jpg"
+    "fotografija_groba": "assets/grobna mesta/Nikolajevic-Aleksandar-grob.jpg"
   },
   {
     "zanimanje": "Трговац извозник, председник општине и добротвор",
@@ -683,7 +683,7 @@
     "grobno_mesto": "",
     "parcela": "",
     "fotografija": "assets/licnosti/vlajko-stojiljkovic.jpg",
-    "fotografija_groba": "",
+    "fotografija_groba": "assets/grobna mesta/Vlajko-Stojiljkovic-grob.jpg",
     "kategorije": [
       "istorija",
       "javne-licnosti"
