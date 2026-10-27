@@ -17,7 +17,7 @@
     "kategorije": [
       "umetnici"
     ],
-    "fotografija_groba": "assets/grobna-mesta/zivka-matic-grob.jpg",
+    "fotografija_groba": "assets/grobna/zivka-matic-grob.jpg",
     "model_3d": "assets/3d/zivka-matic-grob.glb"
   },
   {
@@ -39,7 +39,7 @@
       "politicari",
       "privrednici"
     ],
-    "fotografija_groba": "assets/grobna-mesta/Stojan-Pavlovic-grob.jpg"
+    "fotografija_groba": "assets/grobna/Stojan-Pavlovic-grob.jpg"
   },
   {
     "id": "dimitrije-mita-sapinac",
