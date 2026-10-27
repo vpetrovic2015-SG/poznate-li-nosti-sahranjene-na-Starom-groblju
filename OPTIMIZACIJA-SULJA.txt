@@ -1,0 +1,5 @@
+OPTIMIZACIJA 3D MODELA — VLADAN POPOVIĆ SULJA
+
+Datoteka assets/3d/vladan-popovic-sulja-grob.glb je optimizovana na približno 21,7 MiB (ispod limita od 25 MB).
+Geometrija modela je sačuvana; smanjene su samo ugrađene teksture sa 2048×2048 na 1024×1024 i optimizovana JPEG kompresija.
+Model je ponovo učitan radi provere strukture i geometrije.
