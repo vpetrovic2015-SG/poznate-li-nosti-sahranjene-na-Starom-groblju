@@ -12,7 +12,7 @@
     "izvori": "Početni biografski tekst: dostavljena stranica; proveriti dodatne izvore pre javnog objavljivanja.",
     "lat": 44.63042,
     "lon": 21.178519,
-    "fotografija": "assets/licnosti/zivka-matic.jpg",
+    "fotografija": "assets/licnosti/zivka-matic-nova.jpg",
     "parcela": "7",
     "kategorije": [
       "umetnici"
@@ -59,7 +59,7 @@
     "kategorije": [
       "privrednici"
     ],
-    "fotografija_groba": "assets/grobna-mesta/Dimitrije-Sapinac-grob.jpg"
+    "fotografija_groba": ""
   },
   {
     "id": "ignjat-todorovic",
@@ -443,7 +443,7 @@
       "privrednici",
       "dobrotvori"
     ],
-    "fotografija_groba": "assets/grobna-mesta/Petar-Tamburas-grob.jpg"
+    "fotografija_groba": ""
   },
   {
     "id": "glisa-petrovic",
@@ -463,7 +463,7 @@
     "kategorije": [
       "politicari"
     ],
-    "fotografija_groba": "assets/grobna-mesta/Glisa-Petrovic-grob.jpg"
+    "fotografija_groba": ""
   },
   {
     "id": "dimitrije-mita-protic",
@@ -601,7 +601,7 @@
     "lat": 44.62928,
     "lon": 21.18019,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
-    "fotografija": "assets/licnosti/aleksandar-nikolajevic.jpg",
+    "fotografija": "assets/licnosti/aleksandar-s-nikolaevic.jpg",
     "kategorije": [
       "privrednici",
       "politicari"
@@ -683,7 +683,7 @@
     "grobno_mesto": "",
     "parcela": "",
     "fotografija": "assets/licnosti/vlajko-stojiljkovic.jpg",
-    "fotografija_groba": "assets/grobna-mesta/Vlajko-stojiljkovic-grob",
+    "fotografija_groba": "",
     "kategorije": [
       "istorija",
       "javne-licnosti"
